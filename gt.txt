@@ -1,0 +1,23 @@
+
+
+Img01.pgm  book1,book2,kit
+Img02.pgm  book1,book2,kit
+Img03.pgm  book1,book2,kit,ball,juice
+Img04.pgm  book1,kit,ball,juice
+Img05.pgm  book1,kit,ball,juice
+Img06.pgm  juice
+Img07.pgm  book2,ball,juice
+Img08.pgm  book2,ball
+Img09.pgm  
+Img010.pgm  book1,book2
+
+TestImg01.pgm  book1,book2,kit,juice
+TestImg02.pgm  book1,kit,juice
+TestImg03.pgm  kit,ball,juice
+TestImg04.pgm  book1,ball
+TestImg05.pgm  book2,ball
+TestImg06.pgm  book2,juice
+TestImg07.pgm  book2,kit,ball
+TestImg08.pgm  kit,ball,juice
+TestImg09.pgm  book1
+TestImg010.pgm  
